@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/trtlleeseattleacademy/2017-1#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
